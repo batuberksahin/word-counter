@@ -1,5 +1,3 @@
-# word-counter
-
 # Word Counter
 
 
