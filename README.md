@@ -39,3 +39,4 @@ Words calculating..
 22 : my (139 times)
 23 : not (138 times)
 ```
+note: list lenght equals to total words divided by 200
