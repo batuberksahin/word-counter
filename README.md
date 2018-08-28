@@ -2,12 +2,12 @@
 
 
 ### Usage:
-```python
+```
 py wordcount.py <pdf file>
 ```
 
 ### Example:
-```python
+```
 py wordcount.py examplepdf.pdf
 ```
 
